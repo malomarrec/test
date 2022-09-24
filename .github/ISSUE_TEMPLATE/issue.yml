@@ -14,5 +14,5 @@ body:
       placeholder: "Instance URL will follow $slug.sourcegraph.com format, eg. for bob@acme-corp.com it would be acmpe-corp.sourcegraph.com"
       value: ""
   - type: markdown
-     attributes:
-       value: Title 2
+    attributes:
+      value: Title 2
