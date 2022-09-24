@@ -15,5 +15,4 @@ body:
       value: ""
   - type: markdown
      attributes:
-       value: |
-          "# Title 2"
+       value: Title 2
