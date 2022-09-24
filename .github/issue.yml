@@ -1,0 +1,19 @@
+name: Trial managed instance request
+about: Request for a trial managed instance
+title: 'New Trial Managed Instance request: [domain name]'
+labels: team/cloud, mi,mi/new-instance-request, cloud-trial
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Customer info (required from requester)
+  - type: input
+    attributes:
+      label: Slug
+      description: The URL of the instance that will be created
+      placeholder: "Instance URL will follow $slug.sourcegraph.com format, eg. for bob@acme-corp.com it would be acmpe-corp.sourcegraph.com"
+  - type: markdown
+  attributes:
+    value: |
+      # Title 2
+
