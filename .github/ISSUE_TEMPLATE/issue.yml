@@ -1,5 +1,5 @@
 name: Trial managed instance request
-about: Request for a trial managed instance
+description: Request for a trial managed instance
 title: 'New Trial Managed Instance request: [domain name]'
 labels: team/cloud, mi,mi/new-instance-request, cloud-trial
 body:
